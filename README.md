@@ -1,7 +1,11 @@
 # ServiceNowStudyGuide
 Angular website with a quiz to help people study for the ServiceNow Systems Administrator certification exam.
 
-# service-now-study-guide
+Created using 
+* [Yeoman](http://yeoman.io/)
+* [![Built with Grunt](https://cdn.gruntjs.com/builtwith.svg)](http://gruntjs.com/)
+
+#  Yeoman Scaffolding and Grunt
 
 This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
 version 0.15.1.
