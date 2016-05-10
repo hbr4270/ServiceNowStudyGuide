@@ -8,27 +8,35 @@ Created using:
 * [Yeoman](http://yeoman.io/) to scaffold the website
 * [![Built with Grunt](https://cdn.gruntjs.com/builtwith.svg)](http://gruntjs.com/)
 
-## Cloning and Dependencies
+### How to Use
 
 (to be added)
 
-## Contributing
+#### clone the repository
 
 (to be added)
 
-#  Yeoman Scaffolding and Grunt
+#### Install dependencies
+
+(to be added)
+
+### Contributing
+
+(to be added)
+
+##  Yeoman Scaffolding and Grunt
 
 This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
 version 0.15.1.
 
-## Build & development
+### Build & development
 
 Run `grunt` for building and `grunt serve` for preview.
 
-## Testing
+### Testing
 
 Running `grunt test` will run the unit tests with karma.
 
-# Copyright and Terms of Use
+## Copyright and Terms of Use
 
 (to be added)
